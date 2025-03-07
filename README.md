@@ -3,7 +3,7 @@
 <h1 align="center">Hola, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
-         width="45" /> I'm Ashal Upreti</h1>
+         width="45" /> I'm Saransha Basu</h1>
 <h3 align="center">🤖 A Passionate Machine Learning Enthusiast & Developer from Nepal 📊</h3>
 
 <p align="center">
