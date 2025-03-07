@@ -22,7 +22,6 @@ Hi there! 👋 I'm Saransha Basu<br>🚀 Machine Learning & AI Enthusiast | Engi
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/saransh.basu.1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saransh-basu-86a4152b5/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saranshbasu@gmail.com) 
 
-<h3 align="left">Languages and Tools:</h3>
 
 <h3 align="left">Languages and Tools:</h3>
 
