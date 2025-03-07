@@ -1,12 +1,37 @@
 ![MasterHead](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*vJjJ3Mdok6RvWDqXcbCfkw.gif)
 
-<h1 align="center"> Hola, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+<h1 align="center">Hola, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
-         width="45" /> I'm Saransha Basu</h1>
-<h3 align="center">A passionate Machine Learning enthusiast and developer from Nepal</h3>
+         width="45" /> I'm Ashal Upreti</h1>
+<h3 align="center">🤖 A Passionate Machine Learning Enthusiast & Developer from Nepal 📊</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F76C6C&center=true&vCenter=true&random=false&width=600&lines=Data+Science+%7C+AI+%7C+Deep+Learning;Passionate+about+solving+real-world+problems;Building+intelligent+solutions+with+ML+%26+AI;Always+learning+and+improving+🚀" />
+</p>
 
 <img align="right" alt="machine-learning" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
+
+### 🚀 About Me
+- 🔭 Currently exploring **Deep Learning & Computer Vision**
+- 🌱 Learning **NumPy, Pandas, Matplotlib, and TensorFlow**
+- 💡 Enthusiastic about **AI-powered applications**
+- ⚡ Fun fact: I love automating things 🤖
+
+### 💻 Skills & Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+---
+
+### 📫 Let's Connect!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourgithub/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.com/)
+
 # 💫 About Me:
 Hi there! 👋 I'm Saransha Basu<br>🚀 Machine Learning & AI Enthusiast | Engineering Student | Open-Source Contributor<br><br>I'm passionate about exploring the world of Machine Learning, Artificial Intelligence, and Data Science. Currently, I'm diving deep into NumPy, Pandas, SQL, and DSA while building projects that solve real-world problems.<br><br>🔹 What I'm working on:<br><br>Expanding my knowledge in ML/AI and Data Science 📊<br>Enhancing my problem-solving skills through LeetCode 💡<br>Contributing to open-source projects and collaborating with the community 🤝<br>Building cool projects with Python, Django, and C++ 🔥<br>🔹 Tech Stack:<br><br>Programming: Python, C++, JavaScript<br>Libraries & Frameworks: NumPy, Pandas, Django, Tailwind CSS<br>Tools: GitHub, SQL, Linux<br>💡 I believe in continuous learning and knowledge-sharing. Let's connect and collaborate on exciting ML/AI projects! 🚀<br><br><br><br>
 
