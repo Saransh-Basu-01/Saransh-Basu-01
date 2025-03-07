@@ -1,3 +1,12 @@
+![MasterHead](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*vJjJ3Mdok6RvWDqXcbCfkw.gif)
+
+<h1 align="center"> Hola, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+         alt="Waving hand animated gif"
+         height="45"
+         width="45" /> I'm Saransha Basu</h1>
+<h3 align="center">A passionate Machine Learning enthusiast and developer from Nepal</h3>
+
+<img align="right" alt="machine-learning" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
 # 💫 About Me:
 Hi there! 👋 I'm Saransha Basu<br>🚀 Machine Learning & AI Enthusiast | Engineering Student | Open-Source Contributor<br><br>I'm passionate about exploring the world of Machine Learning, Artificial Intelligence, and Data Science. Currently, I'm diving deep into NumPy, Pandas, SQL, and DSA while building projects that solve real-world problems.<br><br>🔹 What I'm working on:<br><br>Expanding my knowledge in ML/AI and Data Science 📊<br>Enhancing my problem-solving skills through LeetCode 💡<br>Contributing to open-source projects and collaborating with the community 🤝<br>Building cool projects with Python, Django, and C++ 🔥<br>🔹 Tech Stack:<br><br>Programming: Python, C++, JavaScript<br>Libraries & Frameworks: NumPy, Pandas, Django, Tailwind CSS<br>Tools: GitHub, SQL, Linux<br>💡 I believe in continuous learning and knowledge-sharing. Let's connect and collaborate on exciting ML/AI projects! 🚀<br><br><br><br>
 
