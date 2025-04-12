@@ -17,7 +17,7 @@
 - 🌱 Learning **NumPy, Pandas, Matplotlib, and TensorFlow**
 - 💡 Enthusiastic about **AI-powered applications**
 - 💻 I'm also a **Full Stack Developer**, building web apps with modern frameworks.
-- ⚡ Fun fact: I love automating things 🤖
+- ⚡ Fun fact: I love automating things 🤖,<br><br>
 Hi there! 👋 I'm Saransha Basu<br>🚀 Machine Learning & AI Enthusiast | Engineering Student | Open-Source Contributor<br><br>I'm passionate about exploring the world of Machine Learning, Artificial Intelligence, and Data Science. Currently, I'm diving deep into NumPy, Pandas, SQL, and DSA while building projects that solve real-world problems.<br><br>🔹I'm also building full stack applications using React, Django, Node.js, and more!<br><br> What I'm working on:<br><br>Expanding my knowledge in ML/AI and Data Science 📊<br>Enhancing my problem-solving skills through LeetCode 💡<br>Contributing to open-source projects and collaborating with the community 🤝<br>Building cool projects with Python, Django, and C++ 🔥<br>
 
 ## 🌐 Socials:
