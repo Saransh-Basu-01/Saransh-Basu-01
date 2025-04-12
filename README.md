@@ -4,7 +4,7 @@
          alt="Waving hand animated gif"
          height="45"
          width="45" /> I'm Saransha Basu</h1>
-<h3 align="center">🤖 A Passionate Machine Learning Enthusiast & Developer from Nepal 📊</h3>
+<h3 align="center">🤖 A Passionate Machine Learning Enthusiast & Full Stack Developer from Nepal 📊</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F76C6C&center=true&vCenter=true&random=false&width=600&lines=Data+Science+%7C+AI+%7C+Deep+Learning;Passionate+about+solving+real-world+problems;Building+intelligent+solutions+with+ML+%26+AI;Always+learning+and+improving+🚀" />
@@ -16,8 +16,9 @@
 - 🔭 Currently exploring **Deep Learning & Computer Vision**
 - 🌱 Learning **NumPy, Pandas, Matplotlib, and TensorFlow**
 - 💡 Enthusiastic about **AI-powered applications**
+- 💻 I'm also a **Full Stack Developer**, building web apps with modern frameworks.
 - ⚡ Fun fact: I love automating things 🤖
-Hi there! 👋 I'm Saransha Basu<br>🚀 Machine Learning & AI Enthusiast | Engineering Student | Open-Source Contributor<br><br>I'm passionate about exploring the world of Machine Learning, Artificial Intelligence, and Data Science. Currently, I'm diving deep into NumPy, Pandas, SQL, and DSA while building projects that solve real-world problems.<br><br>🔹 What I'm working on:<br><br>Expanding my knowledge in ML/AI and Data Science 📊<br>Enhancing my problem-solving skills through LeetCode 💡<br>Contributing to open-source projects and collaborating with the community 🤝<br>Building cool projects with Python, Django, and C++ 🔥<br>
+Hi there! 👋 I'm Saransha Basu<br>🚀 Machine Learning & AI Enthusiast | Engineering Student | Open-Source Contributor<br><br>I'm passionate about exploring the world of Machine Learning, Artificial Intelligence, and Data Science. Currently, I'm diving deep into NumPy, Pandas, SQL, and DSA while building projects that solve real-world problems.<br><br>🔹I'm also building full stack applications using React, Django, Node.js, and more!<br><br> What I'm working on:<br><br>Expanding my knowledge in ML/AI and Data Science 📊<br>Enhancing my problem-solving skills through LeetCode 💡<br>Contributing to open-source projects and collaborating with the community 🤝<br>Building cool projects with Python, Django, and C++ 🔥<br>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/saransh.basu.1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saransh-basu-86a4152b5/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saranshbasu@gmail.com) 
