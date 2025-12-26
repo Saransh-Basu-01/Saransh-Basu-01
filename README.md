@@ -19,7 +19,7 @@
 
 ---
 
-<img align='right' alt="Coding" width="500"  src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
+<img align='right' alt="Coding" width="400"  src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
 
 ## 🚀 About Me
 
@@ -42,7 +42,7 @@ class SaranshaBasu:
     def learning(self):
         return {
             "ML/AI": ["TensorFlow", "PyTorch", "Keras","Scikit-Learn"],
-            "Data": ["NumPy", "Pandas", "Matplotlib", "Seaborn","Tableau],
+            "Data": ["NumPy", "Pandas", "Matplotlib", "Seaborn","Tableau"],
             "Backend": ["Flask", "FastAPI"],
             "Frontend": ["React", "Next.js"],
             "Other": ["DSA", "System Design"]
