@@ -19,7 +19,7 @@
 
 ---
 
-<img alt="Coding" width="1000"  src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
+<img alt="Coding" width="500"  src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
 
 ## 🚀 About Me
 
