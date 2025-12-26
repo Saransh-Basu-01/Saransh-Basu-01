@@ -19,7 +19,7 @@
 
 ---
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
+<img align="right" alt="Coding" width="300"  src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
 
 ## 🚀 About Me
 
@@ -41,11 +41,11 @@ class SaranshaBasu:
     
     def learning(self):
         return {
-            "ML/AI": ["TensorFlow", "PyTorch", "Keras"],
-            "Data": ["NumPy", "Pandas", "Matplotlib", "Seaborn"],
-            "Backend": ["Django", "Node.js", "FastAPI"],
-            "Frontend": ["React", "Next.js", "TypeScript"],
-            "Other": ["DSA", "System Design", "Cloud Computing"]
+            "ML/AI": ["TensorFlow", "PyTorch", "Keras","Scikit-Learn"],
+            "Data": ["NumPy", "Pandas", "Matplotlib", "Seaborn","Tableau],
+            "Backend": ["Flask", "FastAPI"],
+            "Frontend": ["React", "Next.js"],
+            "Other": ["DSA", "System Design"]
         }
     
     def hobbies(self):
@@ -86,6 +86,8 @@ class SaranshaBasu:
 | 💼 **LinkedIn** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/saransh-basu-86a4152b5/) |
 | 📘 **Facebook** | [![Facebook](https://img.shields.io/badge/Facebook-Follow-1877F2?style=flat&logo=facebook)](https://www.facebook.com/saransh.basu.1) |
 | 📧 **Email** | [![Gmail](https://img.shields.io/badge/Gmail-Contact-D14836?style=flat&logo=gmail)](mailto:saranshbasu@gmail.com) |
+| 📊 **Kaggle** | [![Kaggle](https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/saranshbasu) |
+
 
 </div>
 
@@ -117,8 +119,8 @@ class SaranshaBasu:
 ### 🌐 Web Development
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -211,8 +213,7 @@ const saransha = {
             libraries: ["NumPy", "Pandas", "Matplotlib", "Seaborn", "OpenCV"]
         },
         backEnd: {
-            python: ["Django", "FastAPI", "Flask"],
-            js: ["Node.js", "Express"]
+            python: [ "FastAPI", "Flask"],
         },
         frontEnd: {
             js: ["React", "Next.js"],
@@ -238,6 +239,8 @@ const saransha = {
 💼 **LinkedIn:** [Saransh Basu](https://www.linkedin.com/in/saransh-basu-86a4152b5/)
 
 📘 **Facebook:** [Saransh Basu](https://www.facebook.com/saransh.basu.1)
+
+📊 **Kaggle:** [saranshbasu](https://www.kaggle.com/saranshbasu)
 
 </div>
 
