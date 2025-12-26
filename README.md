@@ -48,8 +48,6 @@ class SaranshaBasu:
             "Other": ["DSA", "System Design"]
         }
     
-    def hobbies(self):
-        return ["🤖 Automating Everything", "💡 Problem Solving", "📚 Continuous Learning"]
 ```
 
 ### 🎯 What I'm Currently Working On
